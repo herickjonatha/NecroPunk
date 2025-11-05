@@ -28,4 +28,4 @@ necro-punk-gamee/
 - **GDScript**
 
 ## 👨‍💻 Autoria
-Projeto desenvolvido por **Herick Lacerda**.
+Projeto desenvolvido por **Herick Lacerda** **Carlos Eduardo**.
